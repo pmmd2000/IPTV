@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="BBC Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/BBC_Persian_logo.png" group-title="News",BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-name="Iran International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Iran_International_logo.png" group-title="News",Iran International
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+
+#EXTINF:-1 tvg-name="Radio Javan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Radio_Javan_Logo.png" group-title="Music",Radio Javan
+https://rjtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Avang TV" tvg-logo="https://avang.com/assets/img/logo.png" group-title="Music",Avang TV
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="PMC Royale" tvg-logo="https://www.pmctv.tv/img/pmc-logo.png" group-title="Music",PMC Royale
+https://rohls.pmc.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="PMC" tvg-logo="https://www.pmctv.tv/img/pmc-logo.png" group-title="Music",PMC
+https://hls.pmc.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Sun Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/65/Sun_Music_Logo.png" group-title="Music",Sun Music
+https://hls.sunmusic.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Navahang TV" tvg-logo="https://navahang.com/public/images/logo.svg" group-title="Music",Navahang TV
+https://hls.navahang.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Tapesh" tvg-logo="https://tapesh.tv/wp-content/uploads/2020/10/tapesh-logo.svg" group-title="General",Tapesh
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tapesh Iran" tvg-logo="https://tapesh.tv/wp-content/uploads/2020/10/tapesh-logo.svg" group-title="General",Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tapesh 2" tvg-logo="https://tapesh.tv/wp-content/uploads/2020/10/tapesh-logo.svg" group-title="General",Tapesh 2
+https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MBC_Persia.png" group-title="General",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 tvg-name="4U TV" group-title="General",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="ITN" group-title="General",ITN
+https://itnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="FX2" group-title="General",FX2
+https://toonixhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="FX1" group-title="General",FX1
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Grand Cinema" group-title="Movies",Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="AVA Family" group-title="Movies",AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="AVA Series" group-title="Movies",AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
