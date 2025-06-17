@@ -12,6 +12,13 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Javan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Radio_Javan_Logo.png" group-title="Music",Radio Javan
 https://rjtvhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="BBCNews.uk", group-title="News", BBC News HD
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk", group-title="News", BBC News HD
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+
 #EXTINF:-1 tvg-name="Avang TV" tvg-logo="https://avang.com/assets/img/logo.png" group-title="Music",Avang TV
 https://hls.avang.live/hls/stream.m3u8
 
